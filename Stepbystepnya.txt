@@ -1,3 +1,5 @@
 1. belajar algoritma
 2. belajar problem solving
 3. belajar golang
+4. belajar javascript
+5. tidur
